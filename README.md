@@ -7,9 +7,9 @@ This repository contains what was shown and demonstrated in several meetups in 2
 
 **Topic:** comparison between Kubernetes services available in the different Public cloud solutions
 
-Demo [cheatsheet](/Chemin de fer.md)
+Demo [cheatsheet](/demo_cheatsheet.md)
 
-![mindmap](/Kubernetes clusters in public clouds.jpg)
+![mindmap](/Kubernetes_clusters_in_public_clouds.jpg)
 
 All this content is under [Creative Common - Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
